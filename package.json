@@ -1,0 +1,19 @@
+{
+  "name": "example-myapp",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongginjs/example-myApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongginjs/example-myApp/issues"
+  },
+  "homepage": "https://github.com/truongginjs/example-myApp#readme"
+}
